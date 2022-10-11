@@ -1,0 +1,2 @@
+import{A as t}from"./index.ca1cfb2c.js";import"./index.46282184.js";import"./iframe.2dfc4c09.js";import"./index.b0fab4ee.js";import"./jsx-runtime.6eb2485e.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/zagob.png",alt:"Matheus Zago"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.6be1a764.js.map
